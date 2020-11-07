@@ -23,6 +23,9 @@
       <li>
         <%= link_to "logout", destroy_user_session_path, method: :delete %>
       </li>
+      <li>
+        <%= link_to "Newbook", new_book_path %>
+      </li>
     <% else %>
       <li>
         <%= link_to "Home", root_path, method: :get %>

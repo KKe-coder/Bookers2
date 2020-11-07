@@ -7,4 +7,6 @@ Rails.application.routes.draw do
     registrations: 'users/registrations'
   }
 
+  resources :books, only: [:new, :create, :index, :show, :destroy]
+
 end
