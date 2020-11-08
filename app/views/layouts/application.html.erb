@@ -12,6 +12,9 @@
   <body>
     <% if user_signed_in? %>
       <li>
+        <%= link_to "Bookers", root_path %>
+      </li>
+      <li>
         <%= link_to "Home", user_path(current_user.id) %>
       </li>
       <li>
@@ -28,9 +31,12 @@
       </li>
     <% else %>
       <li>
+        <%= link_to "Bookers", root_path %>
+      </li>
+      <li>
         <%= link_to "Home", root_path, method: :get %>
       <li>
-        <%= link_to "About", destroy_user_session_path, method: :delete %>
+        <%= link_to "About", home_about_path %>
       </li>
       <li>
         <%= link_to "sign up", new_user_registration_path, method: :get %>

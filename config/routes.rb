@@ -11,5 +11,6 @@ Rails.application.routes.draw do
 
   get '/users/:id', to: 'users#show'
   get '/books/:id', to: 'books#show'
+  get '/home/about', to: 'homes#show'
 
 end
