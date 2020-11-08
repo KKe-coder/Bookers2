@@ -1,1 +1,6 @@
-<h1>ブック詳細ページ</h1>
+<h1>Book detail</h1>
+<div>
+  <p>User image:<%= attachment_image_tag @book.user, :profile_image, :fill, 60, 60, format:'jpeg', fallback: "no_image.jpg" %></p>
+  <p>Title:<%= @book.title %></p>
+  <p>Opinion:<%= @book.body %></p>
+</div>
