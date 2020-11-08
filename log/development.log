@@ -5740,3 +5740,2403 @@ Processing by Users::SessionsController#new as HTML
 Completed 200 OK in 49ms (Views: 48.2ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:36:16 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+Completed 401 Unauthorized in 12ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:36:16 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (13.1ms)
+Completed 200 OK in 380ms (Views: 368.7ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:36:17 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:36:18 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 40ms (Views: 38.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:36:22 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Parameters: {"authenticity_token"=>"pERfwyeq+pclld/laX619Lt2d58rTzMwPo/1Cz6oLbVHayuLEWiKls/MFqowAZ+j4o62oOmP4BlYONW3mmWDXw=="}
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:36:22 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 60ms (Views: 58.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:36:24 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:36:24 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 39ms (Views: 38.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:36:25 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:36:25 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 39ms (Views: 37.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:36:26 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:36:26 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 51ms (Views: 49.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:36:28 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:36:28 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 39ms (Views: 38.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:37:04 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 227ms (Views: 218.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 106.72.148.0 at 2020-11-08 11:37:07 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (2.3ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (16.9ms)
+Completed 200 OK in 107ms (Views: 79.8ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:37:10 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 99ms (Views: 96.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:37:12 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:37:13 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (10.7ms)
+Completed 200 OK in 60ms (Views: 58.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:37:14 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:37:14 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 50ms (Views: 49.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:37:15 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:37:15 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 52ms (Views: 51.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:46:02 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+Completed 401 Unauthorized in 10ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:46:02 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 276ms (Views: 264.5ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:46:06 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:46:06 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 44ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:46:09 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Parameters: {"authenticity_token"=>"oEo3ITqkdApd+6qtY99zizvi7V8hVcG+SFQLW+uWDYJDZUNpDGYEC7eiY+I6oFncYhosYOOVEpcu4yvnT1ujaA=="}
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:46:09 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 59ms (Views: 58.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:46:11 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:46:11 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 40ms (Views: 38.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:46:12 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:46:12 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 41ms (Views: 40.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:46:13 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:46:13 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 50ms (Views: 49.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:46:13 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:46:13 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 44ms (Views: 42.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:46:14 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:46:14 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 40ms (Views: 38.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:46:15 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:46:15 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 50ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:46:17 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:46:17 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 39ms (Views: 37.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:46:18 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:46:18 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 38ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:46:21 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:46:22 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 51ms (Views: 49.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:46:56 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+Completed 401 Unauthorized in 11ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:46:56 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 271ms (Views: 259.7ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:47:00 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:47:00 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 41ms (Views: 39.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:47:01 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:47:01 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.4ms)
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:47:01 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 68ms (Views: 67.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:47:01 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:47:01 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 42ms (Views: 40.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:47:02 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 40ms (Views: 38.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 106.72.148.0 at 2020-11-08 11:47:03 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::RegistrationsController#new as HTML
+  Parameters: {"authenticity_token"=>"uI0UqP76CjScnT1m3y77uRnF0W3q/xds9LB39HtloIlbomDgyDh6NXbE9CmGUdHuQD0QUig/xEWSB1dI36gOYw=="}
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (0.4ms)
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 55ms (Views: 53.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:47:24 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 231ms (Views: 223.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:47:27 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:47:27 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.6ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (12.7ms)
+Completed 200 OK in 91ms (Views: 67.9ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:47:30 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 4ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:47:31 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 102ms (Views: 100.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:47:33 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Parameters: {"authenticity_token"=>"+LR1UAfKflv+nxKwTNWacRfhN7UwAMfiZ3D9woQNlD8bmwEYMQgOWhTG2/8VqrAmThn2ivLAFMsBx91+IMA61Q=="}
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 44ms (Views: 42.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:47:41 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:47:41 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:47:41 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 40ms (Views: 39.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:47:42 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:47:43 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 39ms (Views: 37.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:49:13 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 237ms (Views: 228.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:49:16 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Completed 406 Not Acceptable in 18ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::UnknownFormat (HomesController#show is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.2.4.4) lib/action_controller/metal/implicit_render.rb:55:in `default_render'
+actionpack (5.2.4.4) lib/action_controller/metal/basic_implicit_render.rb:6:in `block in send_action'
+actionpack (5.2.4.4) lib/action_controller/metal/basic_implicit_render.rb:6:in `tap'
+actionpack (5.2.4.4) lib/action_controller/metal/basic_implicit_render.rb:6:in `send_action'
+actionpack (5.2.4.4) lib/abstract_controller/base.rb:194:in `process_action'
+actionpack (5.2.4.4) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.2.4.4) lib/abstract_controller/callbacks.rb:42:in `block in process_action'
+activesupport (5.2.4.4) lib/active_support/callbacks.rb:132:in `run_callbacks'
+actionpack (5.2.4.4) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (5.2.4.4) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (5.2.4.4) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (5.2.4.4) lib/active_support/notifications.rb:168:in `block in instrument'
+activesupport (5.2.4.4) lib/active_support/notifications/instrumenter.rb:23:in `instrument'
+activesupport (5.2.4.4) lib/active_support/notifications.rb:168:in `instrument'
+actionpack (5.2.4.4) lib/action_controller/metal/instrumentation.rb:32:in `process_action'
+actionpack (5.2.4.4) lib/action_controller/metal/params_wrapper.rb:256:in `process_action'
+activerecord (5.2.4.4) lib/active_record/railties/controller_runtime.rb:24:in `process_action'
+actionpack (5.2.4.4) lib/abstract_controller/base.rb:134:in `process'
+actionview (5.2.4.4) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.4.4) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.4.4) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.4.4) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.4.4) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.4.4) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.4.4) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.4.4) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.4.4) lib/action_dispatch/routing/route_set.rb:840:in `call'
+warden (1.2.9) lib/warden/manager.rb:36:in `block in call'
+warden (1.2.9) lib/warden/manager.rb:34:in `catch'
+warden (1.2.9) lib/warden/manager.rb:34:in `call'
+rack (2.2.3) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.3) lib/rack/etag.rb:27:in `call'
+rack (2.2.3) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.3) lib/rack/head.rb:12:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.2.3) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.3) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.4.4) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.4.4) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.4.4) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.4.4) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.4.4) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.4.4) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.4.4) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.4.4) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.4.4) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.2.4.4) lib/rails/engine.rb:524:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:51:00 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 228ms (Views: 220.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:02 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:02 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:03 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:03 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:03 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:03 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:04 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:04 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:04 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:04 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:04 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:05 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:05 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:05 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:05 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:07 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:07 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:07 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:07 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:07 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:07 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:08 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:08 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:08 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:08 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:08 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:09 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:09 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:09 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:09 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:09 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:10 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:10 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:10 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:10 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:10 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:10 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:11 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:11 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:11 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:11 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:11 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:12 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:12 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:14 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:14 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:14 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:15 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:15 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:15 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:15 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:15 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:16 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:16 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:16 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:16 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:16 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:17 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:18 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:18 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:18 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:18 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:18 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:19 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:19 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:19 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:19 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:19 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:20 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:20 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:20 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:20 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:51:20 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#show as HTML
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/home/about
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:52:48 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 230ms (Views: 222.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:52:50 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 90ms (Views: 88.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:52:52 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (uninitialized constant HomeController):
+  
+bootsnap (1.5.0) lib/bootsnap/load_path_cache/core_ext/active_support.rb:80:in `block in load_missing_constant'
+bootsnap (1.5.0) lib/bootsnap/load_path_cache/core_ext/active_support.rb:9:in `without_bootsnap_cache'
+bootsnap (1.5.0) lib/bootsnap/load_path_cache/core_ext/active_support.rb:80:in `rescue in load_missing_constant'
+bootsnap (1.5.0) lib/bootsnap/load_path_cache/core_ext/active_support.rb:59:in `load_missing_constant'
+activesupport (5.2.4.4) lib/active_support/inflector/methods.rb:283:in `const_get'
+activesupport (5.2.4.4) lib/active_support/inflector/methods.rb:283:in `block in constantize'
+activesupport (5.2.4.4) lib/active_support/inflector/methods.rb:281:in `each'
+activesupport (5.2.4.4) lib/active_support/inflector/methods.rb:281:in `inject'
+activesupport (5.2.4.4) lib/active_support/inflector/methods.rb:281:in `constantize'
+actionpack (5.2.4.4) lib/action_dispatch/http/request.rb:88:in `controller_class_for'
+actionpack (5.2.4.4) lib/action_dispatch/http/request.rb:81:in `controller_class'
+actionpack (5.2.4.4) lib/action_dispatch/routing/route_set.rb:46:in `controller'
+actionpack (5.2.4.4) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (5.2.4.4) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.4.4) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.4.4) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.4.4) lib/action_dispatch/routing/route_set.rb:840:in `call'
+warden (1.2.9) lib/warden/manager.rb:36:in `block in call'
+warden (1.2.9) lib/warden/manager.rb:34:in `catch'
+warden (1.2.9) lib/warden/manager.rb:34:in `call'
+rack (2.2.3) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.3) lib/rack/etag.rb:27:in `call'
+rack (2.2.3) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.3) lib/rack/head.rb:12:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.2.3) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.3) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.4.4) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.4.4) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.4.4) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.4.4) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.4.4) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.4.4) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.4.4) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.4.4) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.4.4) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.2.4.4) lib/rails/engine.rb:524:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:54:31 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 232ms (Views: 223.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:54:32 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 97ms (Views: 95.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:54:34 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (uninitialized constant HomeController):
+  
+bootsnap (1.5.0) lib/bootsnap/load_path_cache/core_ext/active_support.rb:80:in `block in load_missing_constant'
+bootsnap (1.5.0) lib/bootsnap/load_path_cache/core_ext/active_support.rb:9:in `without_bootsnap_cache'
+bootsnap (1.5.0) lib/bootsnap/load_path_cache/core_ext/active_support.rb:80:in `rescue in load_missing_constant'
+bootsnap (1.5.0) lib/bootsnap/load_path_cache/core_ext/active_support.rb:59:in `load_missing_constant'
+activesupport (5.2.4.4) lib/active_support/inflector/methods.rb:283:in `const_get'
+activesupport (5.2.4.4) lib/active_support/inflector/methods.rb:283:in `block in constantize'
+activesupport (5.2.4.4) lib/active_support/inflector/methods.rb:281:in `each'
+activesupport (5.2.4.4) lib/active_support/inflector/methods.rb:281:in `inject'
+activesupport (5.2.4.4) lib/active_support/inflector/methods.rb:281:in `constantize'
+actionpack (5.2.4.4) lib/action_dispatch/http/request.rb:88:in `controller_class_for'
+actionpack (5.2.4.4) lib/action_dispatch/http/request.rb:81:in `controller_class'
+actionpack (5.2.4.4) lib/action_dispatch/routing/route_set.rb:46:in `controller'
+actionpack (5.2.4.4) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (5.2.4.4) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.4.4) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.4.4) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.4.4) lib/action_dispatch/routing/route_set.rb:840:in `call'
+warden (1.2.9) lib/warden/manager.rb:36:in `block in call'
+warden (1.2.9) lib/warden/manager.rb:34:in `catch'
+warden (1.2.9) lib/warden/manager.rb:34:in `call'
+rack (2.2.3) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.3) lib/rack/etag.rb:27:in `call'
+rack (2.2.3) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.3) lib/rack/head.rb:12:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.2.3) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.3) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.4.4) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.4.4) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.4.4) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.4.4) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.4.4) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.4.4) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.4.4) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.4.4) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.4.4) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.2.4.4) lib/rails/engine.rb:524:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:54:59 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 383ms (Views: 375.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:55:01 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 97ms (Views: 95.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:55:03 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (uninitialized constant HomeController):
+  
+bootsnap (1.5.0) lib/bootsnap/load_path_cache/core_ext/active_support.rb:80:in `block in load_missing_constant'
+bootsnap (1.5.0) lib/bootsnap/load_path_cache/core_ext/active_support.rb:9:in `without_bootsnap_cache'
+bootsnap (1.5.0) lib/bootsnap/load_path_cache/core_ext/active_support.rb:80:in `rescue in load_missing_constant'
+bootsnap (1.5.0) lib/bootsnap/load_path_cache/core_ext/active_support.rb:59:in `load_missing_constant'
+activesupport (5.2.4.4) lib/active_support/inflector/methods.rb:283:in `const_get'
+activesupport (5.2.4.4) lib/active_support/inflector/methods.rb:283:in `block in constantize'
+activesupport (5.2.4.4) lib/active_support/inflector/methods.rb:281:in `each'
+activesupport (5.2.4.4) lib/active_support/inflector/methods.rb:281:in `inject'
+activesupport (5.2.4.4) lib/active_support/inflector/methods.rb:281:in `constantize'
+actionpack (5.2.4.4) lib/action_dispatch/http/request.rb:88:in `controller_class_for'
+actionpack (5.2.4.4) lib/action_dispatch/http/request.rb:81:in `controller_class'
+actionpack (5.2.4.4) lib/action_dispatch/routing/route_set.rb:46:in `controller'
+actionpack (5.2.4.4) lib/action_dispatch/routing/route_set.rb:32:in `serve'
+actionpack (5.2.4.4) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.4.4) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.4.4) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.4.4) lib/action_dispatch/routing/route_set.rb:840:in `call'
+warden (1.2.9) lib/warden/manager.rb:36:in `block in call'
+warden (1.2.9) lib/warden/manager.rb:34:in `catch'
+warden (1.2.9) lib/warden/manager.rb:34:in `call'
+rack (2.2.3) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.3) lib/rack/etag.rb:27:in `call'
+rack (2.2.3) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.3) lib/rack/head.rb:12:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.2.3) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.3) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.4.4) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.4.4) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.4.4) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.4.4) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.4.4) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.4.4) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.4.4) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.4.4) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.4.4) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.4.4) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.2.4.4) lib/rails/engine.rb:524:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:55:42 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 228ms (Views: 220.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:55:43 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 95ms (Views: 93.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:55:45 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#about as HTML
+  Rendering homes/about.html.erb within layouts/application
+  Rendered homes/about.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 80ms (Views: 78.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:55:47 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Parameters: {"authenticity_token"=>"4LoN2ndPTpCkDnwgKgR3HzM+pwY3GuPZ8HTgnzltjIEDlXmSQY0+kU5XtW9ze11IasZmOfXaMPCWw8AjnaAiaw=="}
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 67ms (Views: 65.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:55:49 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#about as HTML
+  Rendering homes/about.html.erb within layouts/application
+  Rendered homes/about.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 37ms (Views: 36.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:55:50 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#about as HTML
+  Rendering homes/about.html.erb within layouts/application
+  Rendered homes/about.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 36ms (Views: 35.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:55:52 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Parameters: {"authenticity_token"=>"5vGIU4E9RUIR7uy8ppKJu9ojWGBTE5pNi2itHfZwdkcF3vwbt/81Q/u3JfP/7aPsg9uZX5HTSWTt342hUr3YrQ=="}
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 36ms (Views: 35.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:55:52 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 36ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 106.72.148.0 at 2020-11-08 11:55:54 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::RegistrationsController#new as HTML
+  Parameters: {"authenticity_token"=>"+NrL+knKNp8GqNrh/mC9W8IQaTNGE1jP/5ZBEr0p140b9b+yfwhGnuzxE66nH5cMm+ioDITTi+aZIWGuGeR5Zw=="}
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (0.5ms)
+  Rendered devise/shared/_links.html.erb (1.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 73ms (Views: 62.1ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 11:55:55 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 41ms (Views: 39.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 106.72.148.0 at 2020-11-08 11:55:56 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#about as HTML
+  Rendering homes/about.html.erb within layouts/application
+  Rendered homes/about.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 11:59:01 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 230ms (Views: 222.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 12:00:04 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (2.6ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (19.1ms)
+Completed 200 OK in 107ms (Views: 80.5ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/users/sign_up" for 106.72.148.0 at 2020-11-08 12:00:20 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::RegistrationsController#new as HTML
+  Parameters: {"authenticity_token"=>"l7Vjk9ynT206PIsJJNG2/vacX+lsaz7ehIecljraLZd0mhfb6mU/bNBlQkZ9rpypr2Se1q6r7ffiMLwqnheDfQ=="}
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (1.3ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 102ms (Views: 100.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 106.72.148.0 at 2020-11-08 12:00:29 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::RegistrationsController#new as HTML
+  Parameters: {"authenticity_token"=>"pbk4JAKtH482nVgQpadVZnoEWDM/2zxRK4OcDMU9ybZGlkxsNG9vjtzEkV/82H8xI/yZDP0b73hNNLywYfBnXA=="}
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (0.5ms)
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 52ms (Views: 51.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 12:00:30 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 42ms (Views: 40.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 106.72.148.0 at 2020-11-08 12:00:31 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::RegistrationsController#new as HTML
+  Parameters: {"authenticity_token"=>"GMdVtEFLyWWTSz2B2RWTjbre2BjVcyIo7AJ1I13FHpD76CH8d4m5ZHkS9M6Aarna4yYZJxez8QGKtVWf+Qiweg=="}
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (0.4ms)
+  Rendered devise/shared/_links.html.erb (0.7ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 41ms (Views: 40.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:00:33 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 36ms (Views: 35.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 12:00:35 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 41ms (Views: 39.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 12:00:37 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 56ms (Views: 54.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 106.72.148.0 at 2020-11-08 12:00:38 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::RegistrationsController#new as HTML
+  Parameters: {"authenticity_token"=>"BmVvnolrHpN1mts0O3cP6DrcjxguG/zzu00J0aMiilXlShvWv6lukp/DEntiCCW/YyROJ+zbL9rd+iltB+8kvw=="}
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (0.4ms)
+  Rendered devise/shared/_links.html.erb (0.7ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 40ms (Views: 38.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 12:00:40 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.7ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 50ms (Views: 48.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:00:40 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 36ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 106.72.148.0 at 2020-11-08 12:00:42 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (0.4ms)
+  Rendered devise/shared/_links.html.erb (0.7ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 43ms (Views: 41.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:00:43 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 50ms (Views: 49.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 12:00:44 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 39ms (Views: 38.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:02:30 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 232ms (Views: 224.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:02:31 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 91ms (Views: 90.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:12:48 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 228ms (Views: 219.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 12:12:52 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (2.7ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (15.7ms)
+Completed 200 OK in 104ms (Views: 75.7ms | ActiveRecord: 1.9ms)
+
+
+Started POST "/users/sign_in" for 106.72.148.0 at 2020-11-08 12:12:58 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"jS3Ncu7NtJ9xUI4pm6tojLgP/r0WAkCwA2liYjM6Lc/tN0qaiVYpjvfpWwAbAWO1JtL59q1ueYkmu0Rj+runyQ==", "user"=>{"name"=>"test1", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."name" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["name", "test1"], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/users/1
+Completed 302 Found in 297ms (ActiveRecord: 0.7ms)
+
+
+Started GET "/users/1" for 106.72.148.0 at 2020-11-08 12:12:59 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/users_controller.rb:4
+  Rendering users/show.html.erb within layouts/application
+  [1m[36mBook Load (0.2ms)[0m  [1m[34mSELECT "books".* FROM "books" WHERE "books"."user_id" = ?[0m  [["user_id", 1]]
+  ↳ app/views/users/show.html.erb:10
+  Rendered users/show.html.erb within layouts/application (39.2ms)
+Completed 200 OK in 124ms (Views: 104.8ms | ActiveRecord: 1.8ms)
+
+
+Started DELETE "/users/sign_out" for 106.72.148.0 at 2020-11-08 12:13:01 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"WciJiLsXktc5rwUgYo/ivoxdvEzPnMm+SCiS4YRs0lhKlOUxRzapmKYmWa97v8NeRZIiVTv0/66T7qQvyg4J1A=="}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/
+Completed 302 Found in 7ms (ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:13:01 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 47ms (Views: 45.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:14:08 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 237ms (Views: 228.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 12:14:10 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (2.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (15.7ms)
+Completed 200 OK in 105ms (Views: 77.0ms | ActiveRecord: 2.6ms)
+
+
+Started POST "/users/sign_in" for 106.72.148.0 at 2020-11-08 12:14:16 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"kebdS4YDqzD1Vm+MoNP1PAGEyvq2yjA+iFhZ0HTEeTQsUsd3uGn0Wb7eST1HVU3PAzXY4dFv7u8afThV3JhYVQ==", "user"=>{"name"=>"test1", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."name" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["name", "test1"], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/users/1
+Completed 302 Found in 298ms (ActiveRecord: 0.2ms)
+
+
+Started GET "/users/1" for 106.72.148.0 at 2020-11-08 12:14:16 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/users_controller.rb:4
+  Rendering users/show.html.erb within layouts/application
+  [1m[36mBook Load (0.2ms)[0m  [1m[34mSELECT "books".* FROM "books" WHERE "books"."user_id" = ?[0m  [["user_id", 1]]
+  ↳ app/views/users/show.html.erb:10
+  Rendered users/show.html.erb within layouts/application (39.2ms)
+Completed 200 OK in 123ms (Views: 104.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/users" for 106.72.148.0 at 2020-11-08 12:14:18 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/views/users/index.html.erb:1
+  Rendered users/index.html.erb within layouts/application (14.9ms)
+Completed 500 Internal Server Error in 19ms (ActiveRecord: 0.3ms)
+
+
+  
+ActionView::Template::Error (undefined method `profile_image' for 1:Integer):
+    1: <% @user.each do |user| %>
+    2: <div>
+    3:   <p>User image:<%= attachment_image_tag user.id, :profile_image, :fill, 60, 60, format:'jpeg', fallback: "no_image.jpg" %></p>
+    4:   <p>User name:<%= user.name %></p>
+    5:   <p><%= link_to "Show", user_path(user.id) %></p>
+    6: </div>
+  
+app/views/users/index.html.erb:3:in `block in _app_views_users_index_html_erb__3797379409251447135_69974043507100'
+app/views/users/index.html.erb:1:in `_app_views_users_index_html_erb__3797379409251447135_69974043507100'
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:19:53 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 229ms (Views: 221.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:19:54 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.5ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/layouts/application.html.erb:13
+Completed 200 OK in 102ms (Views: 100.3ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/users/sign_in" for 106.72.148.0 at 2020-11-08 12:19:55 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Users::SessionsController#new as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/users/1
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 4ms (ActiveRecord: 0.1ms)
+
+
+Started GET "/users/1" for 106.72.148.0 at 2020-11-08 12:19:55 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/users_controller.rb:4
+  Rendering users/show.html.erb within layouts/application
+  [1m[36mBook Load (0.2ms)[0m  [1m[34mSELECT "books".* FROM "books" WHERE "books"."user_id" = ?[0m  [["user_id", 1]]
+  ↳ app/views/users/show.html.erb:10
+  Rendered users/show.html.erb within layouts/application (40.8ms)
+Completed 200 OK in 138ms (Views: 119.9ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/users" for 106.72.148.0 at 2020-11-08 12:19:59 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/views/users/index.html.erb:1
+  Rendered users/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 55ms (Views: 51.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/users" for 106.72.148.0 at 2020-11-08 12:20:00 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/views/users/index.html.erb:1
+  Rendered users/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 40ms (Views: 37.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users" for 106.72.148.0 at 2020-11-08 12:20:01 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/views/users/index.html.erb:1
+  Rendered users/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 41ms (Views: 39.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users" for 106.72.148.0 at 2020-11-08 12:20:02 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/views/users/index.html.erb:1
+  Rendered users/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 41ms (Views: 38.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users" for 106.72.148.0 at 2020-11-08 12:20:03 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/views/users/index.html.erb:1
+  Rendered users/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 42ms (Views: 39.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users/1" for 106.72.148.0 at 2020-11-08 12:20:03 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/users_controller.rb:4
+  Rendering users/show.html.erb within layouts/application
+  [1m[36mBook Load (0.1ms)[0m  [1m[34mSELECT "books".* FROM "books" WHERE "books"."user_id" = ?[0m  [["user_id", 1]]
+  ↳ app/views/users/show.html.erb:10
+  Rendered users/show.html.erb within layouts/application (26.5ms)
+Completed 200 OK in 66ms (Views: 61.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/users" for 106.72.148.0 at 2020-11-08 12:20:05 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/views/users/index.html.erb:1
+  Rendered users/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 40ms (Views: 37.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users/1" for 106.72.148.0 at 2020-11-08 12:20:06 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/users_controller.rb:4
+  Rendering users/show.html.erb within layouts/application
+  [1m[36mBook Load (0.1ms)[0m  [1m[34mSELECT "books".* FROM "books" WHERE "books"."user_id" = ?[0m  [["user_id", 1]]
+  ↳ app/views/users/show.html.erb:10
+  Rendered users/show.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 47ms (Views: 42.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/users" for 106.72.148.0 at 2020-11-08 12:20:07 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/views/users/index.html.erb:1
+  Rendered users/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 40ms (Views: 37.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users" for 106.72.148.0 at 2020-11-08 12:20:09 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/views/users/index.html.erb:1
+  Rendered users/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 56ms (Views: 53.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users/1" for 106.72.148.0 at 2020-11-08 12:20:10 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/users_controller.rb:4
+  Rendering users/show.html.erb within layouts/application
+  [1m[36mBook Load (0.2ms)[0m  [1m[34mSELECT "books".* FROM "books" WHERE "books"."user_id" = ?[0m  [["user_id", 1]]
+  ↳ app/views/users/show.html.erb:10
+  Rendered users/show.html.erb within layouts/application (9.5ms)
+Completed 200 OK in 47ms (Views: 43.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/users" for 106.72.148.0 at 2020-11-08 12:20:10 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/views/users/index.html.erb:1
+  Rendered users/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 41ms (Views: 38.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users/1" for 106.72.148.0 at 2020-11-08 12:20:12 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/users_controller.rb:4
+  Rendering users/show.html.erb within layouts/application
+  [1m[36mBook Load (0.1ms)[0m  [1m[34mSELECT "books".* FROM "books" WHERE "books"."user_id" = ?[0m  [["user_id", 1]]
+  ↳ app/views/users/show.html.erb:10
+  Rendered users/show.html.erb within layouts/application (9.5ms)
+Completed 200 OK in 48ms (Views: 43.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/users" for 106.72.148.0 at 2020-11-08 12:20:14 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/views/users/index.html.erb:1
+  Rendered users/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 42ms (Views: 38.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users/2" for 106.72.148.0 at 2020-11-08 12:20:15 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/users_controller.rb:4
+  Rendering users/show.html.erb within layouts/application
+  [1m[36mBook Load (0.1ms)[0m  [1m[34mSELECT "books".* FROM "books" WHERE "books"."user_id" = ?[0m  [["user_id", 2]]
+  ↳ app/views/users/show.html.erb:10
+  Rendered users/show.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 57ms (Views: 53.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/users" for 106.72.148.0 at 2020-11-08 12:20:17 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/views/users/index.html.erb:1
+  Rendered users/index.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 49ms (Views: 38.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/users/8" for 106.72.148.0 at 2020-11-08 12:20:19 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"8"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  ↳ app/controllers/users_controller.rb:4
+  Rendering users/show.html.erb within layouts/application
+  [1m[36mBook Load (0.1ms)[0m  [1m[34mSELECT "books".* FROM "books" WHERE "books"."user_id" = ?[0m  [["user_id", 8]]
+  ↳ app/views/users/show.html.erb:10
+  Rendered users/show.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 42ms (Views: 38.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/books/29" for 106.72.148.0 at 2020-11-08 12:20:21 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#show as HTML
+  Parameters: {"id"=>"29"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[36mBook Load (0.1ms)[0m  [1m[34mSELECT  "books".* FROM "books" WHERE "books"."id" = ? LIMIT ?[0m  [["id", 29], ["LIMIT", 1]]
+  ↳ app/controllers/books_controller.rb:22
+  Rendering books/show.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  ↳ app/views/books/show.html.erb:3
+  Rendered books/show.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 41ms (Views: 37.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/users/8" for 106.72.148.0 at 2020-11-08 12:20:26 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"8"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  ↳ app/controllers/users_controller.rb:4
+  Rendering users/show.html.erb within layouts/application
+  [1m[36mBook Load (0.1ms)[0m  [1m[34mSELECT "books".* FROM "books" WHERE "books"."user_id" = ?[0m  [["user_id", 8]]
+  ↳ app/views/users/show.html.erb:10
+  Rendered users/show.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 56ms (Views: 53.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:22:48 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 229ms (Views: 220.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:22:51 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.9ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/layouts/application.html.erb:13
+Completed 200 OK in 105ms (Views: 102.6ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/users" for 106.72.148.0 at 2020-11-08 12:22:54 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering users/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT "users".* FROM "users"[0m
+  ↳ app/views/users/index.html.erb:1
+  Rendered users/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 107ms (Views: 103.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/books" for 106.72.148.0 at 2020-11-08 12:22:58 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering books/index.html.erb within layouts/application
+  [1m[36mBook Load (0.7ms)[0m  [1m[34mSELECT "books".* FROM "books"[0m
+  ↳ app/views/books/index.html.erb:1
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  Rendered books/index.html.erb within layouts/application (59.5ms)
+Completed 200 OK in 102ms (Views: 94.5ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:27:50 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 237ms (Views: 229.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:27:51 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.9ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/layouts/application.html.erb:13
+Completed 200 OK in 102ms (Views: 99.7ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/books" for 106.72.148.0 at 2020-11-08 12:27:54 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering books/index.html.erb within layouts/application
+  Rendered books/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.1ms)
+
+
+  
+SyntaxError (/home/ec2-user/environment/Bookers2/app/views/books/index.html.erb:3: syntax error, unexpected ',', expecting '.' or &. or :: or '['
+...tag (book.user, :profile_image, :fill, 60, 60, format:'jpeg'...
+...                              ^
+/home/ec2-user/environment/Bookers2/app/views/books/index.html.erb:3: syntax error, unexpected ',', expecting ')'
+..., :fill, 60, 60, format:'jpeg', fallback: "no_image.jpg"), u...
+...                              ^
+/home/ec2-user/environment/Bookers2/app/views/books/index.html.erb:3: syntax error, unexpected ')', expecting end
+...pg"), user_path(book.user.id) );@output_buffer.safe_append='...
+...                              ^
+/home/ec2-user/environment/Bookers2/app/views/books/index.html.erb:9: syntax error, unexpected ensure, expecting end-of-input
+          ensure
+          ^~~~~~):
+  
+app/views/books/index.html.erb:3: syntax error, unexpected ',', expecting '.' or &. or :: or '['
+app/views/books/index.html.erb:3: syntax error, unexpected ',', expecting ')'
+app/views/books/index.html.erb:3: syntax error, unexpected ')', expecting end
+app/views/books/index.html.erb:9: syntax error, unexpected ensure, expecting end-of-input
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:29:15 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.5ms)
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/layouts/application.html.erb:13
+Completed 200 OK in 39ms (Views: 37.6ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:29:48 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/layouts/application.html.erb:13
+Completed 200 OK in 249ms (Views: 239.6ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/books" for 106.72.148.0 at 2020-11-08 12:29:50 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#index as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering books/index.html.erb within layouts/application
+  [1m[36mBook Load (1.4ms)[0m  [1m[34mSELECT "books".* FROM "books"[0m
+  ↳ app/views/books/index.html.erb:1
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  ↳ app/views/books/index.html.erb:3
+  Rendered books/index.html.erb within layouts/application (92.4ms)
+Completed 200 OK in 160ms (Views: 149.8ms | ActiveRecord: 2.6ms)
+
+
+Started GET "/users/1" for 106.72.148.0 at 2020-11-08 12:29:53 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/users_controller.rb:4
+  Rendering users/show.html.erb within layouts/application
+  [1m[36mBook Load (1.2ms)[0m  [1m[34mSELECT "books".* FROM "books" WHERE "books"."user_id" = ?[0m  [["user_id", 1]]
+  ↳ app/views/users/show.html.erb:10
+  Rendered users/show.html.erb within layouts/application (27.5ms)
+Completed 200 OK in 104ms (Views: 91.8ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:33:18 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 227ms (Views: 219.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 106.72.148.0 at 2020-11-08 12:33:20 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomesController#top as HTML
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (0.5ms)
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/layouts/application.html.erb:13
+Completed 200 OK in 102ms (Views: 100.1ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/books/new" for 106.72.148.0 at 2020-11-08 12:33:24 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#new as HTML
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  Rendering books/new.html.erb within layouts/application
+  Rendered books/new.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 118ms (Views: 107.1ms | ActiveRecord: 0.6ms)
+
+
+Started POST "/books" for 106.72.148.0 at 2020-11-08 12:33:32 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"fb5TiRzutctBwqsq9W/h2R7I7U57x6/xygW5xaQz4Yykafo1RWIg5mPZG2FigHycNYbufilUTzRS5DaKBjB50A==", "book"=>{"title"=>"rails", "body"=>"rails"}, "commit"=>"Create Book"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/books_controller.rb:10
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/books_controller.rb:10
+  [1m[36mBook Create (0.5ms)[0m  [1m[32mINSERT INTO "books" ("title", "body", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["title", "rails"], ["body", "rails"], ["user_id", 1], ["created_at", "2020-11-08 12:33:32.101183"], ["updated_at", "2020-11-08 12:33:32.101183"]]
+  ↳ app/controllers/books_controller.rb:10
+  [1m[35m (5.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/books_controller.rb:10
+Redirected to https://d210bee76d0f45929740bae87856dfce.vfs.cloud9.us-east-1.amazonaws.com/books/30
+Completed 302 Found in 19ms (ActiveRecord: 6.6ms)
+
+
+Started GET "/books/30" for 106.72.148.0 at 2020-11-08 12:33:32 +0000
+Cannot render console from 106.72.148.0! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by BooksController#show as HTML
+  Parameters: {"id"=>"30"}
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.4.4/lib/active_record/log_subscriber.rb:98
+  [1m[36mBook Load (0.2ms)[0m  [1m[34mSELECT  "books".* FROM "books" WHERE "books"."id" = ? LIMIT ?[0m  [["id", 30], ["LIMIT", 1]]
+  ↳ app/controllers/books_controller.rb:22
+  Rendering books/show.html.erb within layouts/application
+  [1m[36mUser Load (0.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/books/show.html.erb:3
+  Rendered books/show.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 54ms (Views: 49.0ms | ActiveRecord: 0.4ms)
+
+

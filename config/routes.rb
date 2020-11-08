@@ -7,10 +7,10 @@ Rails.application.routes.draw do
   }
 
   resources :books
-  resources :users, only: [:show, :edit, :update]
+  resources :users, only: [:show, :edit, :update, :index]
 
   get '/users/:id', to: 'users#show'
   get '/books/:id', to: 'books#show'
-  get '/home/about', to: 'homes#show'
+  get '/home/about', to: 'homes#about'
 
 end

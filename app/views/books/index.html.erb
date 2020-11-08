@@ -1,6 +1,6 @@
 <% @books.each do |book| %>
 <div>
-  <p>User image:<%= attachment_image_tag book.user, :profile_image, :fill, 60, 60, format:'jpeg', fallback: "no_image.jpg" %></p>
+  <p>User image:<%= link_to attachment_image_tag(book.user, :profile_image, :fill, 60, 60, format:'jpeg', fallback: "no_image.jpg"), user_path(book.user.id) %></p>
   <p><%= link_to book.title, book_path(book.id) %></p>
   <p>Opinion:<%= book.body %></p>
 </div>
