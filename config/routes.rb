@@ -10,5 +10,6 @@ Rails.application.routes.draw do
   resources :users, only: [:show, :edit, :update]
 
   get '/users/:id', to: 'users#show'
+  get '/books/:id', to: 'books#show'
 
 end
