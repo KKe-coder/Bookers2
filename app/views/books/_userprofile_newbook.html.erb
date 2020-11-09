@@ -1,21 +1,26 @@
-<div class="profile-container">
-  <h3 class="profile-name"><%= user.name %></h3>
+<div class="col-md-3">
+  <h2>User Info</h2>
   <%= attachment_image_tag user, :profile_image, :fill, 100, 100, format:'jpeg', fallback: "no_image.jpg" %>
-  <h4 class="profile-introduction"><%= user.introduction %></h4>
-    <p><%= link_to "プロフィール編集ボタン", edit_user_path(current_user) %></p>
-</div>
-
-<% if @book.errors.any? %>
-  <%= @book.errors.count %>件のエラーが発生しました
-  <% @book.errors.full_messages.each do |message| %>
-    <%= message %>
+  <table class="table">
+    <tbody>
+      <tr></tr>
+      <tr>
+        <th>name</th>
+        <th><%= user.name %></th>
+      </tr>
+      <tr>
+        <th>introduction</th>
+        <th><%= user.introduction %></th>
+      </tr>
+    </tbody>
+  </table>
+  <p><%= link_to "プロフィール編集ボタン", edit_user_path(current_user) %></p>
+    <h2 class="mt-3">New book</h2>
+  <%= form_with model:book, local:true do |f| %>
+    <h4>Title</h4>
+    <%= f.text_field :title %>
+    <h4>Opinion</h4>
+    <%= f.text_area :body %><br>
+    <%= f.submit 'Create Book' %>
   <% end %>
-<% end %>
-<h1>New Book</h1>
-<%= form_with model: @book, local:true do |f| %>
-  <h4>Title</h4>
-  <%= f.text_field :title %>
-  <h4>Opinion</h4>
-  <%= f.text_area :body %>
-  <%= f.submit 'Create Book' %>
-<% end %>
+</div>
