@@ -14,7 +14,11 @@
       </tr>
     </tbody>
   </table>
-  <p><%= link_to edit_user_path(user) do %><i class="fas fa-user-cog"></i>プロフィール編集<% end %></p>
+  <div class="row">
+    <%= link_to edit_user_path(user) do %><i class="fas fa-user-cog btn btn-outline-secondary btn-block"></i><% end %><br>
+    <button type="submit"><i class=</button>
+  </div>
+
     <h2 class="mt-3">New book</h2>
   <%= form_with model:book, local:true do |f| %>
     <h4>Title</h4>
