@@ -1,10 +1,12 @@
 <div class="container px-5 px-sm-0">
-  <% if @book.errors.any? %>
-    <%= @book.errors.count %>件のエラーが発生しました
-    <% @book.errors.full_messages.each do |message| %>
-      <%= message %>
+  <div id="error_excplanation">
+    <% if @book.errors.any? %>
+      <h3><%= @book.errors.count %> error prohibited this obj from beign saved:</h3>
+      <ul><% @book.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %></ul>
     <% end %>
-  <% end %>
+  </div>
   <div class="row">
     <%= render 'books/userprofile_newbook', user: current_user, book: @book %>
     <div class="col-md-8 offset-md-1">

@@ -1,14 +1,8 @@
-<% if @book.errors.any? %>
-  <%= @book.errors.count %>件のエラーが発生しました
-  <% @book.errors.full_messages.each do |message| %>
-    <%= message %>
+<div id="error_excplanation">
+  <% if @book.errors.any? %>
+    <h3><%= @book.errors.count %> error prohibited this obj from beign saved:</h3>
+    <ul><% @book.errors.full_messages.each do |message| %>
+      <li><%= book %></li>
+    <% end %></ul>
   <% end %>
-<% end %>
-<h1>New Book</h1>
-<%= form_with model: @book, local:true do |f| %>
-  <h4>Title</h4>
-  <%= f.text_field :title %>
-  <h4>Opinion</h4>
-  <%= f.text_area :body %>
-  <%= f.submit 'Create Book' %>
-<% end %>
+</div>
