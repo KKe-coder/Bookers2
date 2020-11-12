@@ -6,7 +6,7 @@
       <table class="table">
         <tbody>
           <tr>
-            <td><%= link_to attachment_image_tag(@book.user, :profile_image, format:'jpeg', fallback: "no_image.jpg", size: "40x40"), user_path(@book.user.id) %><br>
+            <td><%= link_to attachment_image_tag(@book.user, :profile_image, :fill, 100, 100, format: 'jpeg', fallback: "no_image.jpg", size: "100x100"), user_path(@book.user.id) %><br>
                 <%= link_to @book.user.name, user_path(@book.user.id) %></td>
             <td><%= link_to @book.title, book_path(@book.id) %></td>
             <td><%= @book.body %></td>
